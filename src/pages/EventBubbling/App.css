@@ -1,0 +1,23 @@
+.page-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.intro {
+  margin-bottom: 32px;
+}
+
+.explanation {
+  margin-top: 32px;
+}
+
+.explanation ul ul {
+  margin-left: 20px;
+  margin-bottom: 16px;
+}
+
+.explanation li {
+  margin-bottom: 8px;
+  line-height: 1.5;
+} 
